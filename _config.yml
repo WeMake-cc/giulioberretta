@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true      
-resume-url: _site/asset/CV Giulio Berretta maggio 2019.pdf
+resume-url: assets/CVGiulioBerrettamaggio2019.pdf
 
 url: https://giulioberretta.it  
 # your url: http://USERNAME.github.io
@@ -54,9 +54,9 @@ github: mygithub
 email: info@giulioberretta.it
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Giulio:
+        name: Giulio Berretta
+        bio: ingegnere elettronico
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
