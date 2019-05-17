@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true      
-resume-url: assets/CVGiulioBerrettamaggio2019.pdf
+resume-url: https://raw.githubusercontent.com/WeMake-cc/giulioberretta/gh-pages/assets/CVGiulioBerrettamaggio2019.pdf
 
 url: https://giulioberretta.it  
 # your url: http://USERNAME.github.io
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/giulio-berretta-91a249b8
+linkedin: /giulio-berretta-91a249b8
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: giulioberretta
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -59,7 +59,7 @@ authors:
         bio: ingegnere elettronico
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: 
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
