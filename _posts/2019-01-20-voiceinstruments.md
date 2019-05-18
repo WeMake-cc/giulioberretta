@@ -14,3 +14,5 @@ externalLink: false
 ---
 
 Voice Instruments è un'interfaccia open source concepita per la lettura vocale di valori numerici e messaggi di servizio utili a soddisfare i bisogni di persone impossibilitate alla lettura o di persone operanti in contesti dove risulta scomodo usare la vista per leggere i valori su di un monitor.
+
+[Voice Instruments](http://voiceinstruments.opencare.cc/it/)
