@@ -23,6 +23,6 @@ Attualmente, è stata rilasciata la versione 3.0 dell'interfaccia Voice Instrume
 
 VoiceInstruments3.0 - un concentrato di tecnologia… concepire strumenti di misura parlanti non è mai stato così semplice…Due ingressi analogici, due ingressi digitali, bus UART e I2C Per interfacciarsi con quasi tutti sensori o con i dispositivi elettronici in generale. Questa scheda, alimentata con due batterie al litio tipo CR2032 utilizza micro processori ad alte prestazioni per l’elaborazione audio ed una capsula di ultima generazione per la riproduzione vocale.
 
-Il progetto VoiceInstruments è in collaborazione con [WeMake | makerspace fablab](http://wemake.cc/tag/voiceinstruments/)
+Il progetto VoiceInstruments è in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/).
 
 Intervista: [VoiceInstruments, gli strumenti per maker non vedenti](http://wemake.cc/2017/10/31/wemake-stories-voice-instruments-lo-strumento-per-i-maker-non-vedenti/)
