@@ -17,4 +17,4 @@ Si tratta di un adattatore concepito appositamente per essere collegato al DigiT
 
 Questo piccolo adattatore si collega alla porta RS232 del multimetro ed attraverso l’interfaccia Voice Instruments legge automaticamente le informazioni riportate sul display.
 
-Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/)
+Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/).

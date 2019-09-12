@@ -15,4 +15,4 @@ externalLink: false
 
 Si tratta di un adattatore grande poco più di un accendino compatibile con la maggior parte dei calibri digitali economici. Questo accessorio si collega agganciandosi al connettore del calibro ed attraverso l’interfaccia Voice Instruments legge automaticamente le informazioni riportate sul display come valore misurato ed unità di misura (mm o pollici).
 
-Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/)
+Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/).

@@ -25,4 +25,4 @@ VoiceInstruments3.0 - un concentrato di tecnologia… concepire strumenti di mis
 
 Il progetto VoiceInstruments è in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/).
 
-Intervista: [VoiceInstruments, gli strumenti per maker non vedenti](http://wemake.cc/2017/10/31/wemake-stories-voice-instruments-lo-strumento-per-i-maker-non-vedenti/)
+Intervista: [VoiceInstruments, gli strumenti per maker non vedenti](http://wemake.cc/2017/10/31/wemake-stories-voice-instruments-lo-strumento-per-i-maker-non-vedenti/).
