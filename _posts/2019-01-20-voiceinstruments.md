@@ -15,8 +15,6 @@ externalLink: false
 
 Voice Instruments è una linea di strumenti di misura parlanti utili a soddisfare i bisogni di persone impossibilitate alla lettura o di persone operanti in contesti dove risulta scomodo usare la vista per leggere i valori su di un monitor.
 
-[VoiceInstruments](http://voiceinstruments.opencare.cc/it/)
-
 Le funzionalità di questi moduli per la vocalizzazione di display hanno presto condotto ad un esigenza di portatilità del sistema perciò nelle successive versioni è stato perfezionato e miniaturizzato.
 
 Attualmente, è stata rilasciata la versione 3.0 dell'interfaccia Voice Instruments con le seguenti caratteristiche:
@@ -26,3 +24,5 @@ VoiceInstruments3.0 - un concentrato di tecnologia… concepire strumenti di mis
 Il progetto VoiceInstruments è in collaborazione con [WeMake](http://wemake.cc/tag/voiceinstruments/).
 
 Intervista: [VoiceInstruments, gli strumenti per maker non vedenti](http://wemake.cc/2017/10/31/wemake-stories-voice-instruments-lo-strumento-per-i-maker-non-vedenti/).
+
+[VoiceInstruments & opencare](http://voiceinstruments.opencare.cc/it/)
