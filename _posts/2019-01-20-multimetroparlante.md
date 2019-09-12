@@ -16,3 +16,5 @@ externalLink: false
 Si tratta di un adattatore concepito appositamente per essere collegato al DigiTek DT4000ZC. Un multimetro digitale versatile ed economico con cui si possono misurare grandezze elettriche come tensione, corrente, resistenza, capacità, frequenza ecc…
 
 Questo piccolo adattatore si collega alla porta RS232 del multimetro ed attraverso l’interfaccia Voice Instruments legge automaticamente le informazioni riportate sul display.
+
+Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake | makerspace fablab](http://wemake.cc/tag/voiceinstruments/)
