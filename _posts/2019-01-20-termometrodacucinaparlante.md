@@ -20,3 +20,5 @@ Per una cottura ottimale degli alimenti
 Si tratta di un dispositivo elettronico dotato di una sonda termometrica in acciaio inox certificata per il contatto con gli alimenti.
 Accendendo il device un display a 7 segmenti di colore rosso mostrerà la temperatura mentre una guida vocale seguirà l'utente durante tutte le fasi del suo utilizzo.
 Tramite l'apposita manopola è inoltre possibile regolare la temperatura d'allarme, attivabile durante il riscaldamento ed il raffreddamento delle pietanze.
+
+Questo strumento di misura parlante fa parte della linea [VoiceInstruments](/voiceinstruments), in collaborazione con [WeMake | makerspace fablab](http://wemake.cc/tag/voiceinstruments/)
