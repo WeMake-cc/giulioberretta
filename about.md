@@ -9,5 +9,5 @@ A partire dal 2018 ho consolidato una serie di ricerche sugli strumenti di misur
 
 **info@giulioberretta.it**
 
-[Curriculum Vitae](https://raw.githubusercontent.com/WeMake-cc/giulioberretta/gh-pages/assets/CVGiulioBerrettamaggio2019.pdf)
+[Curriculum Vitae](https://raw.githubusercontent.com/WeMake-cc/giulioberretta/gh-pages/assets/CV.pdf)
 
